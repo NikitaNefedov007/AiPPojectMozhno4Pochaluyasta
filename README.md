@@ -1,0 +1,2 @@
+# AiPPojectMozhno4Pochaluyasta
+MarketBotScanner
